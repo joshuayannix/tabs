@@ -236,6 +236,7 @@ About
   cursor: pointer;
   transition: var(--transition);
   letter-spacing: var(--spacing);
+  outline: none;
 }
 .tab-btn:hover:not(.active) {
   background: var(--clr-primary-10);
